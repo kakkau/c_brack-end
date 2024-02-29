@@ -1,2 +1,2 @@
-NOME: kauã rafael 
-DISCIPLINA: construção de back-end
+nome: kaua
+DISCIPLINA: backend
